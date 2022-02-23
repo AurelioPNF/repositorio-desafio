@@ -1,0 +1,1 @@
+É um bom hábito não usar Ctrl+V no terminal, tive problemas duas vezes na hora de clonar o repositório no pc por que usei Ctrl+V por reflexo pra colar o SSH - Nota pra si mesmo, nada de CTRL+V no terminal
