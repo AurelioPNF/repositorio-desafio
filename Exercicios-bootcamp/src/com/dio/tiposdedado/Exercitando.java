@@ -1,4 +1,4 @@
-package com.dio.TiposDeDado;
+package com.dio.tiposdedado;
 
 public class Exercitando {
 
