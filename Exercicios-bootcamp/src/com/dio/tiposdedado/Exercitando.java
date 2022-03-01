@@ -29,7 +29,7 @@ public class Exercitando {
 		String st2 = "Cicrano";
 		String st3 = "ag dgb se  se et t KNBJBJBB &*'&%& 75894389";
 		
-		String dt1 = "09/02/1981";
+		//String dt1 = "09/02/1981";
 		
 		boolean bo1 = true;
 		boolean bo2 = false;
