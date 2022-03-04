@@ -33,5 +33,9 @@ https://docs.google.com/presentation/d/1InCKAqx_Vocw9BxN95JTtcDpPnredEOa/edit?us
 
 -----
 
+Curso Estruturas de Repetição e Arrays em Java -
 
+https://github.com/cami-la/loops-e-arrays
+
+-----
 
